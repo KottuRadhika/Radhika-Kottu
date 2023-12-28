@@ -1,11 +1,15 @@
-
-img{
-    width:200px;
-    height:200px;
-    
-}
 body{
-    background-image: url("https://tse2.mm.bing.net/th?id=OIP.D8mhtcrzd9MUJSVjjsFplAHaEo&pid=Api&P=0&h=180");
-    background-repeat: no-repeat;
+    background-image:url("https://tse2.mm.bing.net/th?id=OIP.OGsE70PeIHg8_ZHAWDQYcAAAAA&pid=Api&P=0&h=180");
+    background-repeat:no-repeat;
     background-size: cover;
+}
+    
+img{
+    width: 200px;
+    height: 200px;
+    border-radius:50px;
+    margin: 40px;
+}
+h1{
+    text-align: center;
 }
